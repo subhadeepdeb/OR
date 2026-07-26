@@ -1,0 +1,5 @@
+base,selected_pairings,duty_min,block_min,deadhead_min,avg_expected_delay_risk,duty_hours
+ATL,12,3721,1766,239,4.551666666666667,62.02
+DFW,12,4966,2985,45,3.929166666666667,82.77
+JFK,12,3856,2075,0,4.2325,64.27
+ORD,14,4609,2336,0,1.9764285714285712,76.82

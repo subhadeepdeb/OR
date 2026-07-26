@@ -1,0 +1,17 @@
+metric,value
+solver_status,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+objective_value,81682.84
+candidate_pairings,982
+selected_pairings,50
+flights,100
+all_flights_covered_exactly_once,True
+recovery_single_pairings_selected,1
+round_trip_pairings_selected,47
+overnight_pairings_selected,1
+three_leg_pairings_selected,1
+total_reserve_crews,64
+max_base_duty_hours,82.77
+min_base_duty_hours,62.02
+total_deadhead_hours,4.73
+total_expected_delay_risk_min,180.23
+mip_gap,0.0

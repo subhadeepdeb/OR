@@ -1,0 +1,10 @@
+parameter,value,description
+min_connection_min,45,Minimum connection/turn time between operated legs
+max_sit_min,240,Maximum sit time inside a duty period
+max_duty_min,720,Maximum duty elapsed time for a pairing duty
+max_block_min,540,Maximum flying block time per duty
+brief_min,45,Pre-flight report/brief time
+debrief_min,30,Post-duty debrief time
+min_rest_min,600,Minimum overnight rest
+max_legs_per_pairing,4,Pairing generation limit
+max_pairing_span_days,2,Maximum generated pairing duration
